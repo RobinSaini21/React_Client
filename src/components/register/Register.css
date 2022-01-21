@@ -1,0 +1,51 @@
+.form{
+    background: rgb(36,0,32);
+    background: linear-gradient(90deg, rgba(36,0,32,0.7465116279069768) 0%, rgba(121,9,81,1) 45%, rgba(255,0,157,1) 100%);
+    width: 500px;
+    margin-left: 240px;
+    height: 500px;
+}
+.inp_1{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+   
+}
+#create-account-pseudo{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+    background: transparent;
+    border-bottom: 4px solid black;
+}
+#create-account-first-name{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+    background: transparent;
+    border-bottom: 4px solid black;
+}
+#create-account-email{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    border: none;
+    background: transparent;
+    border-bottom: 4px solid black;
+}
+.btn{
+    margin: 10px;
+    height: 40px;
+    width: 400px;
+    background-color: #1778F2;
+    text-transform: uppercase; 
+    font-size: large;
+}
+.title{
+    margin-top: 100px;
+    border: 2px solid black;
+    color: white;
+    background-color:#1778F2;
+}
